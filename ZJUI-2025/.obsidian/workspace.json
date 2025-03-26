@@ -1,0 +1,319 @@
+{
+  "main": {
+    "id": "b7f6c882e57a2669",
+    "type": "split",
+    "children": [
+      {
+        "id": "c03ce900abcd4c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5962299bec4d95b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math285笔记/Lecture.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture"
+            }
+          },
+          {
+            "id": "ebb8a74e3a6aa853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys214笔记/Lecture 1-4 波的衍射与干涉+光电效应.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1-4 波的衍射与干涉+光电效应"
+            }
+          },
+          {
+            "id": "38f722ec13eee99e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys214笔记/Lecture 5 欧拉方程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5 欧拉方程"
+            }
+          },
+          {
+            "id": "570dd0f6d7df1118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys214笔记/Lecture 9 谐振子.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 9 谐振子"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3799f7d2fb67c8b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cce4aa7c9e3f7a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e113230ccd305671",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e8f4dc7f9e1f8213",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6605c3ae07c3ce2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "512601bfd0af45fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbf5128c790b583e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "717f57e058d79fd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phys214笔记/Lecture 5 欧拉方程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Lecture 5 欧拉方程 的反向链接列表"
+            }
+          },
+          {
+            "id": "ec47c78d335d85eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "419cfe9eb2f58df9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "25523ccf11649ebe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          },
+          {
+            "id": "37b35be03aa6210d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:发布更改": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "570dd0f6d7df1118",
+  "lastOpenFiles": [
+    "选课.md",
+    "欢迎.md",
+    "ZJUI-2025",
+    "ZJUI-2025/Phys214笔记/Lecture 8 量子粒子的能量.md",
+    "ZJUI-2025/Phys214笔记/Lecture 9 谐振子.md",
+    "ZJUI-2025/Phys214笔记/Lecture 7 动量 本征态（概率）.md",
+    "ZJUI-2025/Phys214笔记/Lecture 6 波函数.md",
+    "ZJUI-2025/Math285笔记/Lecture 4-6.md",
+    "ZJUI-2025/Math285笔记/Lecture 7-10.md",
+    "IE.md",
+    "ZJUI-2025/Math285笔记/Lecture 11-13.md",
+    "ZJUI-2025/Phys214笔记/Lecture 5 欧拉方程.md",
+    "ZJUI-2025/Phys214笔记/attachments/Pasted image 20250320162554.png",
+    "ZJUI-2025/Phys214笔记/attachments/Pasted image 20250320162307.png",
+    "ZJUI-2025/Phys214笔记/attachments/Pasted image 20250320162025.png",
+    "ZJUI-2025/Phys214笔记/Lecture 1-4 波的衍射与干涉+光电效应.md",
+    "ZJUI-2025/Math285笔记/attachments/Pasted image 20250319173648.png",
+    "ZJUI-2025/Math285笔记/课本.md",
+    "ZJUI-2025/Math285笔记/attachments/Pasted image 20250319164042.png",
+    "ZJUI-2025/Math285笔记/attachments/Pasted image 20250319162638.png",
+    "ZJUI-2025/Math285笔记/Lecture.md",
+    "ZJUI-2025/Math285笔记/attachments/Pasted image 20250319144517.png",
+    "ZJUI-2025/Math285笔记/Lecture 1-3.md",
+    "ZJUI-2025/Phys214笔记/attachments/Pasted image 20250317131720.png",
+    "ZJUI-2025/Phys214笔记/attachments/Pasted image 20250317125228.png",
+    "ZJUI-2025/Math285笔记/attachments/Pasted image 20250313131615.png",
+    "ZJUI-2025/CS225笔记/Slides 5-9 (Quiz 2 Review).md",
+    "ZJUI-2025/CS225笔记/C++.md",
+    "ZJUI-2025/Math285笔记/Syllabus.md",
+    "Math285笔记/TODO.md",
+    "ZJUI-2025/Math285笔记/attachments",
+    "ZJUI-2025/ECE210笔记/ECE210.md",
+    "ZJUI-2025/CS225笔记/attachments",
+    "ZJUI-2025/CS225笔记",
+    "ZJUI-2025/ECE210笔记/attachments",
+    "ZJUI-2025/Phys214笔记/attachments/unit1.pdf",
+    "ZJUI-2025/Phys214笔记/attachments/unit3.pdf",
+    "Phys214笔记/attachments/unit3.pdf.crdownload",
+    "ZJUI-2025/Phys214笔记/attachments/unit2.pdf",
+    "Phys214笔记/attachments/unit2.pdf.crdownload",
+    "2025-03-06.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

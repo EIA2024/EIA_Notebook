@@ -1,0 +1,85 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true,
+    "min_chars": 200
+  },
+  "smart_sources": {
+    "single_file_data_path": ".smart-env/smart_sources.json",
+    "min_chars": 200,
+    "embed_model": {
+      "adapter": "transformers",
+      "transformers": {
+        "legacy_transformers": true,
+        "model_key": "TaylorAI/bge-micro-v2"
+      },
+      "TaylorAI/bge-micro-v2": {}
+    },
+    "smart_change": {
+      "active": true
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_view_filter": {
+    "render_markdown": true,
+    "show_full_path": false
+  },
+  "excluded_headings": "",
+  "smart_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "openai": {
+        "model_key": "",
+        "api_key": "sk-hrJoIOdlTJdlOq5Id32SQ2f4N7Fr39Gfz3VA0Yp8PqlfMrmH"
+      },
+      "ollama": {
+        "model_key": "deepseek-r1:14b",
+        "models": {
+          "deepseek-r1:14b": {
+            "model_name": "deepseek-r1:14b",
+            "id": "deepseek-r1:14b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "deepseek-r1:8b": {
+            "model_name": "deepseek-r1:8b",
+            "id": "deepseek-r1:8b",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "llama3.2:latest": {
+            "model_name": "llama3.2:latest",
+            "id": "llama3.2:latest",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          },
+          "llama3.1:latest": {
+            "model_name": "llama3.1:latest",
+            "id": "llama3.1:latest",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          }
+        }
+      },
+      "custom": {
+        "api_adapter": "openai",
+        "max_input_tokens": 40000,
+        "id": "gpt-4o-mini",
+        "api_key": "sk-hrJoIOdlTJdlOq5Id32SQ2f4N7Fr39Gfz3VA0Yp8PqlfMrmH",
+        "protocol": "https://api.chatanywhere.tech/v1/chat/completions"
+      }
+    },
+    "embed_model": {
+      "model_key": "None"
+    },
+    "language": "zh",
+    "review_context": true,
+    "lookup_limit": 30,
+    "send_tool_output_in_user_message": true
+  }
+}

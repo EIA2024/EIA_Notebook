@@ -1,0 +1,139 @@
+{
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F4"
+    }
+  ],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F3"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F6"
+    }
+  ],
+  "automatic-table-of-contents:insert-automatic-table-of-contents": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "automatic-table-of-contents:insert-automatic-table-of-contents-docs": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}

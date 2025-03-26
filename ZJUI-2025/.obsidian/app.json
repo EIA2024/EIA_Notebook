@@ -1,0 +1,10 @@
+{
+  "showLineNumber": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
+}
